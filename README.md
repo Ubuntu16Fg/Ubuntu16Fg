@@ -1,5 +1,18 @@
-### Buenos días, tardes o noches, soy Frans Lozano Unibio — Desarrollador de Aplicaciones Multiplataforma
-Bienvenido a mi perfil de GitHub. Actualmente curso el **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en U-tad (Madrid). 
+<h1 align="center">¡Hola! Soy Frans Lozano Unibio 👋</h1>
+<h3 align="center">Desarrollador de Aplicaciones Multiplataforma en formación</h3>
+
+<p align="center">
+  Bienvenido a mi perfil de GitHub. Actualmente estoy cursando el ciclo formativo de <strong>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> en <strong>U-tad (Madrid)</strong>, enfocándome en crecer y aprender mas de mi entorno.
+</p>
+
+---
+
+### 👨‍💻 Sobre mí
+
+-  Estudiante de **DAM** en U-tad (Madrid).
+-  Aprendiendo y profundizando en desarrollo backend, bases de datos y aplicaciones móviles.
+-  Apasionado por la programación limpia y el aprendizaje continuo de nuevas tecnologías.
+-  Buscando oportunidades para seguir creciendo y colaborar en proyectos interesantes.
 
 ***
 ### 🛠️ Lenguajes, Bases de Datos y Herramientas
@@ -41,6 +54,5 @@ Bienvenido a mi perfil de GitHub. Actualmente curso el **Técnico Superior en De
   </a>
   <a href="mailto:franslozano16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-    <p>franslozano16@gmail.com</p>
   </a>
 </p>
