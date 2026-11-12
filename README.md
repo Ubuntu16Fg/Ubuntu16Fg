@@ -1,16 +1,46 @@
-## Hi there 👋
+### Buenos días, tardes o noches, soy Frans Lozano Unibio — Desarrollador de Aplicaciones Multiplataforma
+Bienvenido a mi perfil de GitHub. Actualmente curso el **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en U-tad (Madrid). 
 
-<!--
-**Ubuntu16Fg/Ubuntu16Fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+### 🛠️ Lenguajes, Bases de Datos y Herramientas
 
-Here are some ideas to get you started:
+#### 💻 Lenguajes de Programación:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,kotlin" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🗃️ Desarrollo Web y Bases de Datos:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb" />
+  </a>
+</p>
+
+#### 🧰 IDES y herramientas:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,docker" />
+  </a>
+</p>
+
+#### 🪾 Control de Versiones y Entornos:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+***
+
+### 📫 Conecta conmigo
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:franslozano16@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+    <p>franslozano16@gmail.com</p>
+  </a>
+</p>
