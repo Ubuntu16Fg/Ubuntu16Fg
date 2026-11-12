@@ -11,7 +11,7 @@
 
 -  Estudiante de **DAM** en U-tad (Madrid).
 -  Aprendiendo y profundizando en desarrollo backend, bases de datos y aplicaciones móviles.
--  Apasionado por la programación limpia y el aprendizaje continuo de nuevas tecnologías.
+-  Apasionado por la programación y el aprendizaje continuo de nuevas tecnologías.
 -  Buscando oportunidades para seguir creciendo y colaborar en proyectos interesantes.
 
 ***
