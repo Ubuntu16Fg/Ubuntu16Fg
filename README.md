@@ -49,7 +49,7 @@
 
 ### 📫 Conecta conmigo
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/frans-lozano-unibio-4554033a6/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:franslozano16@gmail.com">
